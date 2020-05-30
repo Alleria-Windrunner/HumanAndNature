@@ -15,6 +15,8 @@
 		334DD3E424820313005E1EF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 334DD3E324820313005E1EF0 /* Assets.xcassets */; };
 		334DD3E724820313005E1EF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 334DD3E524820313005E1EF0 /* LaunchScreen.storyboard */; };
 		334DD3EF2482042F005E1EF0 /* assets.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 334DD3EE2482042F005E1EF0 /* assets.atlas */; };
+		334DD3F124822A62005E1EF0 /* building.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334DD3F024822A62005E1EF0 /* building.swift */; };
+		334DD3F3248237FC005E1EF0 /* Army.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334DD3F2248237FC005E1EF0 /* Army.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		334DD3E624820313005E1EF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		334DD3E824820313005E1EF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		334DD3EE2482042F005E1EF0 /* assets.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = assets.atlas; sourceTree = "<group>"; };
+		334DD3F024822A62005E1EF0 /* building.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = building.swift; sourceTree = "<group>"; };
+		334DD3F2248237FC005E1EF0 /* Army.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Army.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				334DD3EE2482042F005E1EF0 /* assets.atlas */,
 				334DD3DC24820311005E1EF0 /* GameScene.swift */,
 				334DD3DE24820311005E1EF0 /* GameViewController.swift */,
+				334DD3F024822A62005E1EF0 /* building.swift */,
+				334DD3F2248237FC005E1EF0 /* Army.swift */,
 				334DD3E024820311005E1EF0 /* Main.storyboard */,
 				334DD3E324820313005E1EF0 /* Assets.xcassets */,
 				334DD3E524820313005E1EF0 /* LaunchScreen.storyboard */,
@@ -149,6 +155,8 @@
 				334DD3DD24820311005E1EF0 /* GameScene.swift in Sources */,
 				334DD3DF24820311005E1EF0 /* GameViewController.swift in Sources */,
 				334DD3D724820311005E1EF0 /* AppDelegate.swift in Sources */,
+				334DD3F124822A62005E1EF0 /* building.swift in Sources */,
+				334DD3F3248237FC005E1EF0 /* Army.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
